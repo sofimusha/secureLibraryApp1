@@ -42,7 +42,7 @@ const seedDB=async()=>{
             link:bookLinks[i],
             image:[
                 {
-                  url:'https://res.cloudinary.com/dlg6yu0cn/image/upload/v1694019174/library/ek7gr6d6xzbtzrmshezl.jpg',
+                  url:'https://res.cloudinary.com/dlg6yu0cn/image/upload/v1713722584/library/tlfpfhs7qjltpyixsb3u.jpg',
                   filename: 'library/ek7gr6d6xzbtzrmshezl',
                 },{
                 url : 'https://res.cloudinary.com/dlg6yu0cn/image/upload/v1713627971/library/xith08htsxiz71lwvetr.pdf',                  

@@ -165,7 +165,8 @@ const scriptSrcUrls = [
     "https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js",
     "https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js",
     "https://unpkg.com/swiper@11.0.7/swiper-bundle.min.js",
-    "https://unpkg.com"
+    "https://unpkg.com",
+    "https://code.jquery.com/jquery-3.6.0.min.js"
 ];
 const styleSrcUrls = [
     "https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css",
